@@ -1,0 +1,4 @@
+baseURL = "https://pianogugu-yarba7.vercel.app"
+languageCode = "en-us"
+title = "Piano Chord Romance Songs"
+theme = "hugo-theme-minos"
